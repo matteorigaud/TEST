@@ -5,6 +5,8 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
+    border: 2px solid rgb(100, 143, 207);
+    border-radius:10px;
 }
 nav{
     display: flex;
