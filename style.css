@@ -1,3 +1,14 @@
 body{
     background-color: rgb(227, 180, 51);
 }
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
