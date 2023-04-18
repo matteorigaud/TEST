@@ -9,9 +9,11 @@ h1{
     border: 2px solid rgb(100, 143, 207);
     border-radius:10px;
 }
-nav{
+ul{
+    list-style: none;
+    width: 100%;
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
 
 }
